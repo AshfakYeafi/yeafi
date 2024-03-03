@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yeafi.github.io/sitemap.xml
+Sitemap: https://github.com/alshedivat/al-folio.git/sitemap.xml
