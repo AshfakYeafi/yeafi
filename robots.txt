@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ashfakyeafi.github.ioyeafi.github.io/sitemap.xml
+Sitemap: https://ashfakyeafi.github.io/yeafi/sitemap.xml
